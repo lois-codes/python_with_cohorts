@@ -17,7 +17,7 @@ data=[
         "events_url": "https://api.github.com/users/gentlesolo/events{/privacy}",
         "received_events_url": "https://api.github.com/users/gentlesolo/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "daunikman",
@@ -37,7 +37,7 @@ data=[
         "events_url": "https://api.github.com/users/daunikman/events{/privacy}",
         "received_events_url": "https://api.github.com/users/daunikman/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "ehizman",
@@ -57,7 +57,7 @@ data=[
         "events_url": "https://api.github.com/users/ehizman/events{/privacy}",
         "received_events_url": "https://api.github.com/users/ehizman/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "Olaoluolowe",
@@ -77,7 +77,7 @@ data=[
         "events_url": "https://api.github.com/users/Olaoluolowe/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Olaoluolowe/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "hedreez09",
@@ -97,7 +97,7 @@ data=[
         "events_url": "https://api.github.com/users/hedreez09/events{/privacy}",
         "received_events_url": "https://api.github.com/users/hedreez09/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "solutionCraftsman",
@@ -117,7 +117,7 @@ data=[
         "events_url": "https://api.github.com/users/solutionCraftsman/events{/privacy}",
         "received_events_url": "https://api.github.com/users/solutionCraftsman/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "CaptainBKola",
@@ -137,7 +137,7 @@ data=[
         "events_url": "https://api.github.com/users/CaptainBKola/events{/privacy}",
         "received_events_url": "https://api.github.com/users/CaptainBKola/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "momah95",
@@ -157,7 +157,7 @@ data=[
         "events_url": "https://api.github.com/users/momah95/events{/privacy}",
         "received_events_url": "https://api.github.com/users/momah95/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "isholajanet",
@@ -177,7 +177,7 @@ data=[
         "events_url": "https://api.github.com/users/isholajanet/events{/privacy}",
         "received_events_url": "https://api.github.com/users/isholajanet/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "Debagboola",
@@ -197,7 +197,7 @@ data=[
         "events_url": "https://api.github.com/users/Debagboola/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Debagboola/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "IbidapoOlalekan",
@@ -217,7 +217,7 @@ data=[
         "events_url": "https://api.github.com/users/IbidapoOlalekan/events{/privacy}",
         "received_events_url": "https://api.github.com/users/IbidapoOlalekan/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "tboydv1",
@@ -237,7 +237,7 @@ data=[
         "events_url": "https://api.github.com/users/tboydv1/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tboydv1/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "Patrick5455",
@@ -257,7 +257,7 @@ data=[
         "events_url": "https://api.github.com/users/Patrick5455/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Patrick5455/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "itunuelijah",
@@ -277,7 +277,7 @@ data=[
         "events_url": "https://api.github.com/users/itunuelijah/events{/privacy}",
         "received_events_url": "https://api.github.com/users/itunuelijah/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "akinleries",
@@ -297,7 +297,7 @@ data=[
         "events_url": "https://api.github.com/users/akinleries/events{/privacy}",
         "received_events_url": "https://api.github.com/users/akinleries/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "kareemmonsur",
@@ -317,7 +317,7 @@ data=[
         "events_url": "https://api.github.com/users/kareemmonsur/events{/privacy}",
         "received_events_url": "https://api.github.com/users/kareemmonsur/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "Akinolae",
@@ -337,7 +337,7 @@ data=[
         "events_url": "https://api.github.com/users/Akinolae/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Akinolae/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "dabreeze",
@@ -357,7 +357,7 @@ data=[
         "events_url": "https://api.github.com/users/dabreeze/events{/privacy}",
         "received_events_url": "https://api.github.com/users/dabreeze/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "oolabisi",
@@ -377,7 +377,7 @@ data=[
         "events_url": "https://api.github.com/users/oolabisi/events{/privacy}",
         "received_events_url": "https://api.github.com/users/oolabisi/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "SimNinwo",
@@ -397,7 +397,7 @@ data=[
         "events_url": "https://api.github.com/users/SimNinwo/events{/privacy}",
         "received_events_url": "https://api.github.com/users/SimNinwo/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "gbemme",
@@ -417,7 +417,7 @@ data=[
         "events_url": "https://api.github.com/users/gbemme/events{/privacy}",
         "received_events_url": "https://api.github.com/users/gbemme/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "PastorCoder",
@@ -437,7 +437,7 @@ data=[
         "events_url": "https://api.github.com/users/PastorCoder/events{/privacy}",
         "received_events_url": "https://api.github.com/users/PastorCoder/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "emperorsegxy",
@@ -457,7 +457,7 @@ data=[
         "events_url": "https://api.github.com/users/emperorsegxy/events{/privacy}",
         "received_events_url": "https://api.github.com/users/emperorsegxy/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "Oviep",
@@ -477,7 +477,7 @@ data=[
         "events_url": "https://api.github.com/users/Oviep/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Oviep/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "jerrywise97",
@@ -497,7 +497,7 @@ data=[
         "events_url": "https://api.github.com/users/jerrywise97/events{/privacy}",
         "received_events_url": "https://api.github.com/users/jerrywise97/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     },
     {
         "login": "dayoolacodes",
@@ -517,6 +517,43 @@ data=[
         "events_url": "https://api.github.com/users/dayoolacodes/events{/privacy}",
         "received_events_url": "https://api.github.com/users/dayoolacodes/received_events",
         "type": "User",
-        "site_admin": false
+        "site_admin": False
     }
 ]
+
+def is_odd():
+    id_is_odd = []
+    for dictionaries in data:
+        if dictionaries["id"]% 2 > 0:
+            id_is_odd.append(dictionaries["login"])
+
+    for dictionaries in id_is_odd:
+            print(dictionaries)
+
+is_odd()
+
+print("-------------------------------------------")
+
+def has_eight():
+    id_has_eight = []
+    for dictionaries in data:
+        if str(dictionaries["id"]).__contains__("8"):
+            id_has_eight.append(dictionaries["login"])
+
+    for dictionaries in id_has_eight:
+            print(dictionaries)
+
+has_eight()
+
+print("-------------------------------------------")
+
+def is_even():
+    id_is_even = []
+    for dictionaries in data:
+        if dictionaries["id"] % 2 == 0:
+            id_is_even.append(dictionaries["login"])
+
+    for dictionaries in id_is_even:
+        print(dictionaries)
+
+is_even()
