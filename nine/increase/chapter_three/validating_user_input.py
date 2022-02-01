@@ -9,18 +9,19 @@ failure = 0
 
 
 for number in range(10):
+    user_input = int(input('Enter result(1= pass, 2= failure):'))
 
-    result=int(input('Enter result(1= pass, 2= failure):'))
- 
-    if result == 1 :
+    while user_input != 1 and user_input != 2:
+        print("You entered a wrong number... Try again")
+
+    user_input =  int(input('Enter result(1= pass, 2= failure):'))
+    if user_input == 1 :
         passes = passes + 1
 
-    elif result == 2:
-        failure = failure + 1
+    elif user_input == 2:
+         failure = failure + 1
 
-    else:
-        print("Invalid input... Try again")
-
+       
 print("passed :", passes)
 print("failed: ",failure )
 
