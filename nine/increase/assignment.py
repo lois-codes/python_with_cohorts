@@ -1,20 +1,20 @@
 data =[
-    {
+     {
         "name" : "Ademijuwonlo",
         "age" : 23,
         "favorite_food" : "beans",
         "favorite_color" : "blue",
         "gender" : "male",
-        "id_number" : 001
+        "id_number" : 001,
         "friends" : ['bukola', 'joseph', 'emmanuel']  
     },
     {
         "name" : "Olabanji",
-        "age" : 26
+        "age" : 26,
         "favorite_food" : "rice",
         "favorite_color" : "black",
         "gender" : "male",
-        "id_number" : 002
+        "id_number" : 002,
         "friends" : ['increase', 'tami', 'tumi']
     },
     {   
@@ -23,27 +23,27 @@ data =[
         "favorite_food" : "beans",
         "favorite_color" : "white",
         "gender" : "male",
-        "id_number" : 003
+        "id_number" : 003,
         "friends" : ['joshua', 'pst_emmanuel', 'eyitayo']
 
     },
     {
         "name" : "Alexa",
-        "age" : 24
+        "age" : 24,
         "favorite_food" : "spaghetti",
         "favorite_color" : "yellow",
         "gender" : "female",
-        "id_number" : 004
+        "id_number" : 004,
         "friends" : ['millen', 'uche', 'renner', 'joy']
 
     },
     {
         "name" : "Chetanna",
-        "age" : 27
+        "age" : 27,
         "favorite_food" : "jollof rice",
         "favorite_color" : "green",
         "gender" : "male",
-        "id_number" : 005
+        "id_number" : 005,
         "friends" : ['lois', 'marvellous', 'tife', 'daniel']
 
     },
@@ -80,7 +80,7 @@ data =[
     },
     { 
         "name" : "Praise",
-        "age" : 17,
+        "age" : 12,
         "favorite_food" : ['eba-okro', 'fried turkey'],
         "favorite_color" : "pink",
         "gender" : "female",
@@ -89,7 +89,7 @@ data =[
     },
     {
         "name" : "Okezua",
-        "age" : 24,
+        "age" : 21
         "favorite_food" : ['meat','fried-meat','fresh-fish','pepper-soup','plantain','hamburger'],
         "favorite_color" : ['blue','white','black'],
         "gender" : "female",
@@ -97,6 +97,7 @@ data =[
         "friends" : ['miju', 'ola', 'eric']
     }
     ]
+
 
 
 

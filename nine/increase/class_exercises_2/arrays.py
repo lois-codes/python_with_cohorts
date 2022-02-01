@@ -26,7 +26,7 @@ for row in range(2,-1,-1):
 
 print('==================================================')
 
-print('SN\t','\tObject\t','\tPosition')
+print('SN\t','\tOBJECT\t','\tPOSITION')
 print()
 count = 0
 for row in range(3):
