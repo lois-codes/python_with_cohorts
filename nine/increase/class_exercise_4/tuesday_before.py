@@ -1,4 +1,4 @@
-{"colors": [
+data = {"colors": [
 	{
 		"color": "red",
 		"value": "#f00"
@@ -180,4 +180,53 @@
 		}
 }
 }
+print("======================")
+print("Colors that contain #f")
+print("======================")
+# Write a function that prints the colors that have "#f" in their value
+def has_letter_f():
+    
+    colors = data["colors"]
+    for i in colors:
+        if i["value"].__contains__("#f"):
+                print(i["color"])
 
+has_letter_f()
+
+print("============================")
+print("Toppings Id containing Maple")
+print("============================")
+
+
+def has_maple():
+    top = data["example_one"]["topping"]
+    for i in top:
+        if i["type"] == "Maple":
+            print(i["id"])
+
+has_maple()
+
+print("====================================================")
+print("Batter to make Old-Fashioned Doughnut")
+print("====================================================")
+
+def old_fashioned_donut():
+    example_two = data["example_two"]
+    for i in example_two:
+        if i["name"] == "Old Fashioned":
+            print(i["batters"])
+
+old_fashioned_donut()
+
+print("====================================================")
+print("All toppings in Example Four")
+print("====================================================")
+
+def has_topping():
+    example_four = data["example_four"]["items"]["item"]
+    for i in example_four:
+        print(i["topping"])
+    
+has_topping()
+
+print("====================================================")
