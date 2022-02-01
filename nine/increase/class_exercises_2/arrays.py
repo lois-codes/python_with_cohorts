@@ -2,30 +2,38 @@ a = ['Bananas','Orange','Mangoes']
 b = ['Bread', 'Eggs','Tomatoes']
 c = ['Rice','Beans','Yams']
 
-variable = [a,b,c]
 
-# print(variable)
-
+print('SN\t','\tOBJECT\t','\tPOSITION')
+print()
+food = [a,b,c]
 count = 0
 for column in range(3):
     for row in range(3):
         count+=1
-        print(count, end=' ') 
-        print(row,column, end=' ', sep=' ')
-        # print(variable[column] [0], end=' ')
-        print(variable[row][column], row, column)
+        print(f'{count}\t\t{food[row][column]}\t\t{[row]}{[column]}',end=" ")
+        print('')
 
+print('==================================================')
 print()
-
+print('SN\t','\tOBJECT\t','\tPOSITION')
+count = 0
 for row in range(2,-1,-1):
     for column in range(2,-1,-1):
-        print(variable[row][column],row,column)
+        count +=1
+        print(f'{count}\t\t{food[column][row]}\t\t{[column]}{[row]}',end=" ")
+        print('')
+        
 
+print('==================================================')
+
+print('SN\t','\tObject\t','\tPosition')
 print()
-
-for row in range(2,2):
-    for column in range(2,2):
-        print(variable[row][column],row,column)
+count = 0
+for row in range(3):
+    for column in range(3):
+        count+=1
+        print(f'{count}\t\t{food[row][column]}\t\t{[row]}{[column]}',end=" ")
+        print('')
         
         
     

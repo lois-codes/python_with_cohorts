@@ -5,26 +5,20 @@
 
 passes = 0
 failure = 0
-
-
-
+user_input = int(input('Enter result(1= pass, 2= failure):'))
 for number in range(10):
-    user_input = int(input('Enter result(1= pass, 2= failure):'))
-
-    while user_input != 1 and user_input != 2:
-        print("You entered a wrong number... Try again")
-
-    user_input =  int(input('Enter result(1= pass, 2= failure):'))
+    while user_input < 0 or user_input > 2:
+        user_input = int(input('Invalid input...Try again!Enter result(1= pass, 2= failure):'))
     if user_input == 1 :
         passes = passes + 1
-
-    elif user_input == 2:
+    if user_input == 2:
          failure = failure + 1
 
+    user_input = int(input('Enter result(1= pass, 2= failure):'))
        
-print("passed :", passes)
-print("failed: ",failure )
-
-if(passes > 8):
-    print("Bonus to instructor")
+if passes > 0 or failure > 0 :
+    print("passed :", passes)
+    print("failed: ",failure )
+else:
+    print("No correct input...Try again!")
 

@@ -1,12 +1,12 @@
-friend=[
+data =[
     {
         "name" : "Ademijuwonlo",
         "age" : 23,
         "favorite_food" : "beans",
         "favorite_color" : "blue",
         "gender" : "male",
-        "id" : 001
-        "friends" : [bukola, joseph, emmanuel]  
+        "id_number" : 001
+        "friends" : ['bukola', 'joseph', 'emmanuel']  
     },
     {
         "name" : "Olabanji",
@@ -14,8 +14,8 @@ friend=[
         "favorite_food" : "rice",
         "favorite_color" : "black",
         "gender" : "male",
-        "id" : 002
-        "friends" : [increase, tami, tumi]
+        "id_number" : 002
+        "friends" : ['increase', 'tami', 'tumi']
     },
     {   
         "name" : "Shola",
@@ -23,8 +23,8 @@ friend=[
         "favorite_food" : "beans",
         "favorite_color" : "white",
         "gender" : "male",
-        "id" : 003
-        "friends" : [joshua, pst_emmanuel, eyitayo]
+        "id_number" : 003
+        "friends" : ['joshua', 'pst_emmanuel', 'eyitayo']
 
     },
     {
@@ -33,8 +33,8 @@ friend=[
         "favorite_food" : "spaghetti",
         "favorite_color" : "yellow",
         "gender" : "female",
-        "id" : 004
-        "friends" : [millen, uche, renner, joy]
+        "id_number" : 004
+        "friends" : ['millen', 'uche', 'renner', 'joy']
 
     },
     {
@@ -43,8 +43,8 @@ friend=[
         "favorite_food" : "jollof rice",
         "favorite_color" : "green",
         "gender" : "male",
-        "id" : 005
-        "friends" : [lois, marvellous, tife, daniel]
+        "id_number" : 005
+        "friends" : ['lois', 'marvellous', 'tife', 'daniel']
 
     },
     {
@@ -53,8 +53,8 @@ friend=[
         "favorite_food" : "fried rice",
         "favorite_color" : "cream de la cream",
         "gender" : "male",
-        "id" : 006,
-        "friends" : [emmanuel, tyler, cheta, bolu, favour]
+        "id_number" : 006,
+        "friends" : ['emmanuel', 'tyler', 'cheta', 'bolu', 'favour']
 
     },
     {
@@ -63,38 +63,38 @@ friend=[
         "favorite_food" : "yamarita",
         "favorite_color" : "gold",
         "gender" : "male",
-        "id" : 007,
-        "friends" : [ugwu, okonkwo, okezua]
+        "id_number" : 007,
+        "friends" : ['ugwu', 'okonkwo', 'okezua']
 
     },
     {
         "name" : "Lovette",
         "age" : 38,
-        "favorite_food" : [bread-tea,yamarita, eggs, plantain],
+        "favorite_food" : ['bread-tea','yamarita', 'eggs', 'plantain'],
         "favorite_color" : "violent",
         "gender" : "female",
-        "id" : 008,
-        "friends" : [blessing, michelle, john, isaac, naomi]
+        "id_number" : 008,
+        "friends" : ['blessing', 'michelle', 'john', 'isaac', 'naomi']
     
 
     },
     { 
         "name" : "Praise",
         "age" : 17,
-        "favorite_food" : [eba-okro, fried turkey],
+        "favorite_food" : ['eba-okro', 'fried turkey'],
         "favorite_color" : "pink",
         "gender" : "female",
-        "id" : 009,
-        "friends" : [abel, ose, riches, david, ruth, wisdom, ndudi, joshua, jaffe, godel, brandon]
+        "id_number" : 009,
+        "friends" : ['abel', 'ose', 'riches', 'david_number', 'ruth', 'wisdom', 'ndudi', 'joshua', 'jaffe', 'godel', 'brandon']
     },
     {
         "name" : "Okezua",
         "age" : 24,
-        "favorite_food" : [meat,fried-meat,fresh-fish,pepper-soup,plantain,hamburger],
-        "favorite_color" : [blue,white,black],
+        "favorite_food" : ['meat','fried-meat','fresh-fish','pepper-soup','plantain','hamburger'],
+        "favorite_color" : ['blue','white','black'],
         "gender" : "female",
-        "id" : 010,
-        "friends" : [miju, ola, eric]
+        "id_number" : 010,
+        "friends" : ['miju', 'ola', 'eric']
     }
     ]
 
