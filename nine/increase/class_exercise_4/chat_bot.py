@@ -1,6 +1,11 @@
 import datetime
 import random
 import time
+import json
+
+to_read = open("/home/increase/dictionary.json" ,"r+")
+
+data = json.load(to_read)
 
 
 def chatbot():
@@ -9,20 +14,21 @@ def chatbot():
 
         question = input("What is your question?\n").split()
 
-        dictionary = {
-            "time": ["The date and time is: " + str(datetime.datetime.now()), "Go buy wristwatch"],
-            "name": ["Siri", "Sam", "Alexa", "Ask me something else biko"],
-            "love": ["Ja, ich liebe dich!", "Nein, ich liebe dich nicht", "Scheiße", "Love is wicked"],
-            "eat":  ["Yeah, baby!", "Nah 😢"],
-            "single": ["I'm single as feck", "It's like I'm in one relationship like that joor"],
-            "programs": ["I write python sometimes", "I'm learning java", "I can't kill myself on golang",
-                         "C# is unnecessarily hard"],
-            "country": ["I've been to Canada", "Maybe the UK", "Lovely Kenya", "Extremely beautiful Latvia"],
-            "age": ["I am "+ str(random.randint(1, 100))+ "year(s) old"],
-            "play": ["It depends tho", "Biko leave me alone joor", "Make I daze you?!"],
-            "sleep": ["I rarely sleep mehn", "I can't shutdown, I can only have a 10sec power nap daily"],
-            "Manchester_united" :["Fifa", "We winning"]
-        }
+        dictionary = data
+        # {
+        #     "time": ["The date and time is: " + str(datetime.datetime.now()), "Go buy wristwatch"],
+        #     "name": ["Siri", "Sam", "Alexa", "Ask me something else biko"],
+        #     "love": ["Ja, ich liebe dich!", "Nein, ich liebe dich nicht", "Scheiße", "Love is wicked"],
+        #     "eat":  ["Yeah, baby!", "Nah 😢"],
+        #     "single": ["I'm single as feck", "It's like I'm in one relationship like that joor"],
+        #     "programs": ["I write python sometimes", "I'm learning java", "I can't kill myself on golang",
+        #                  "C# is unnecessarily hard"],
+        #     "country": ["I've been to Canada", "Maybe the UK", "Lovely Kenya", "Extremely beautiful Latvia"],
+        #     "age": ["I am "+ str(random.randint(1, 100))+ "year(s) old"],
+        #     "play": ["It depends tho", "Biko leave me alone joor", "Make I daze you?!"],
+        #     "sleep": ["I rarely sleep mehn", "I can't shutdown, I can only have a 10sec power nap daily"],
+        #     "Manchester_united" :["Fifa", "We winning"]
+        # }
 
         reply = []
 
